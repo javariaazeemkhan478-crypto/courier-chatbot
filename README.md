@@ -107,3 +107,4 @@ CourierBot AI provides intelligent responses about:
 - **GitHub:** javariaazeemkhan478-crypto
 - **Project:** Courier & Inventory Management AI Chatbot
 - **Stack:** React + Django + PostgreSQL + OpenRouter
+
